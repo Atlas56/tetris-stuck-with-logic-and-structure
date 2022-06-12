@@ -1,0 +1,84 @@
+
+
+*{
+    margin: 0;
+}
+.container{
+    width:700px ;
+    height:1030px ;
+    background-color: rgb(199, 183, 36);
+    color: red;
+    display: flex;
+    
+}
+
+.blockblue{
+    position: absolute;
+    margin-left: 300px;
+
+    
+}
+
+
+.shape0{
+    height: 50px;
+    width: 50px;
+    margin-bottom: -100px;
+    margin-top: 100px;
+    background: rgb(11, 189, 35);
+}
+.shape1{
+    height: 50px;
+    width: 50px;
+    margin-top: 100px;
+    background: rgb(209, 5, 5); 
+}
+.shape2{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+    margin-top: -50px;
+    background: rgb(107, 34, 151);
+}
+.rotate90{
+    transform: rotate(90deg);
+}
+.rotate180{
+    transform: rotate(180deg);
+}
+.rotate270{
+    transform: rotate(270deg);
+}
+.rotate360{
+    transform: rotate(360deg);
+}
+.rotate450{
+    transform: rotate(450deg);
+}
+.rotate540{
+    transform: rotate(540deg);
+}
+.rotate630{
+    transform: rotate(630deg);
+}
+.rotate720{
+    transform: rotate(720deg);
+}
+.rotate810{
+    transform: rotate(810deg);
+}
+.rotate900{
+    transform: rotate(900deg);
+}
+.rotate990{
+    transform: rotate(990deg);
+}
+.rotate1080{
+    transform: rotate(1080deg);
+}
+.addshape{
+    height:0px;
+    width: 0px;
+
+    background: rgba(241, 241, 241, 0.556); 
+}
